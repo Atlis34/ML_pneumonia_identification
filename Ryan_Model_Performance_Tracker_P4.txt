@@ -1,0 +1,48 @@
+v1.  
+
+300 - 300 - Images
+228/228/1 - image size
+5 - Epochs
+
+Accuracy: 92.50%
+Precision: 0.93
+Recall: 0.93
+F1 Score: 0.92
+
+v2. - change to 10 epochs - performance DOWN!
+
+300 - 300 - Images
+228/228/1 - image size
+10 - Epochs
+
+Accuracy: 89.17%
+Precision: 0.90
+Recall: 0.89
+F1 Score: 0.89
+
+v3. - lets try lighten/darken 
+
+Accuracy: 93.33%
+Precision: 0.94
+Recall: 0.93
+F1 Score: 0.93
+
+v4. - lighten/darken with 512 x 512
+
+Accuracy: 91.67%
+Precision: 0.92
+Recall: 0.92
+F1 Score: 0.92
+
+v5. = sharper still, bigger test set - still 50/50
+
+Accuracy: 88.94%
+Precision: 0.90
+Recall: 0.89
+F1 Score: 0.89
+
+-- Klaus advice - 
+
+PCA!
+Bigger test set
+Random (not 50/50) data set
