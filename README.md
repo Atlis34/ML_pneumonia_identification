@@ -1,6 +1,7 @@
 # ML_pneumonia_identification
 Project #4
 Dataset: https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+Presentation: https://docs.google.com/presentation/d/1BlAtzGQq8VZ_xssahaHezNaMIYKWDZFCPA-pIw0tVzE/edit#slide=id.g2e198e140dc_0_0
 
 # Pneumonia Detection with Deep Learning
 
